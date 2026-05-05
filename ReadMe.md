@@ -7,7 +7,7 @@
 <h2 align="center"></h2>
 
 <p>
-Hey 👋 I'm <b>Cuong Nguyen Van</b>, a Senior AI/ML Engineer specializing in speech intelligence and large-scale machine learning systems.
+Hey 👋 I'm <b>Bach Vo Gia</b>, a Senior AI/ML Engineer specializing in speech intelligence and large-scale machine learning systems.
 
 I design and deploy scalable <b>speech recognition, audio processing, and transformer-based AI systems</b> from research to production. My work focuses on improving model accuracy, optimizing real-time inference, and building high-performance ML pipelines for enterprise-scale applications.
 </p>
