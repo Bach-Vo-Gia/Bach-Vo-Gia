@@ -14,48 +14,7 @@ I design and deploy production-grade AI platforms powered by <b>OpenAI APIs, Lan
 
 ---
 
-<h2>Core Expertise 🧠</h2>
-
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="48"/><br/>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" height="48"/><br/>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="48"/><br/>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="48"/><br/>Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="48"/><br/>Tailwind</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="48"/><br/>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="48"/><br/>MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="48"/><br/>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" height="48"/><br/>AWS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="48"/><br/>Git</td>
-  </tr>
-</table>
-
----
-
-<h2>AI / LLM Specialization 🤖</h2>
-
-<ul>
-  <li>Large Language Model (LLM) applications</li>
-  <li>Retrieval-Augmented Generation (RAG) systems</li>
-  <li>RLHF & human-in-the-loop AI workflows</li>
-  <li>Semantic retrieval and embedding pipelines</li>
-  <li>Vector databases (Pinecone, FAISS)</li>
-  <li>LangChain & LlamaIndex orchestration</li>
-  <li>AI data annotation and quality optimization</li>
-  <li>Scalable FastAPI backend architectures</li>
-  <li>Distributed AI systems and deployment pipelines</li>
-  <li>Enterprise AI automation systems</li>
-</ul>
-
----
-
-
----
-
-<h2 align="center">Tech Stack ⚙️</h2>
+<h2 align="center">Tech Stack </h2>
 
 <div align="center">
 
@@ -123,7 +82,7 @@ I design and deploy production-grade AI platforms powered by <b>OpenAI APIs, Lan
 
 ---
 
-<h2>Education 🎓</h2>
+<h2>Education </h2>
 
 <ul>
   <li><b>B.Sc. Computer Science</b> — Hanoi University of Science and Technology</li>
@@ -132,17 +91,17 @@ I design and deploy production-grade AI platforms powered by <b>OpenAI APIs, Lan
 
 ---
 
-<h2>Contact 📫</h2>
+<h2>Contact </h2>
 
 <ul>
   <li>Email: bachvogia.dsg@gmail.com</li>
   <li>Location: Hanoi, Vietnam 🇻🇳</li>
-  <li>LinkedIn: Add your LinkedIn profile URL</li>
+  <li>LinkedIn: https://www.linkedin.com/in/bach-vo-gia-482740166/ </li>
 </ul>
 
 ---
 
-<h2>Mission 🚀</h2>
+<h2>Mission </h2>
 
 <p>
 My mission is to build scalable AI systems that combine LLMs, semantic retrieval, and human feedback loops to deliver reliable, production-ready AI solutions for real-world applications.
